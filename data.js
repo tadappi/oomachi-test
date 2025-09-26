@@ -28,18 +28,25 @@ var APP_DATA = {
       ],
       "faceSize": 3600,
       "initialViewParameters": {
-        "yaw": 0.5422196016306273,
-        "pitch": 0.2119436931286316,
-        "fov": 0.5366825674461134
+        "yaw": 0.5312768623149751,
+        "pitch": 0.09904982294745501,
+        "fov": 0.40711721033155707
       },
       "linkHotspots": [],
-      "infoHotspots": []
+      "infoHotspots": [
+        {
+          "yaw": 2.7724847836889914,
+          "pitch": 0.30839483958675373,
+          "title": "奥州市役所",
+          "text": "<div>&lt;a href=\"https://www.city.oshu.iwate.jp/index.html\" target=\"_blank\"&gt;ここをクリック&lt;/a&gt;</div><div><br></div>"
+        }
+      ]
     }
   ],
   "name": "Project Title",
   "settings": {
     "mouseViewMode": "drag",
-    "autorotateEnabled": true,
+    "autorotateEnabled": false,
     "fullscreenButton": false,
     "viewControlButtons": false
   }
