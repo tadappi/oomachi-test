@@ -38,7 +38,7 @@ var APP_DATA = {
           "yaw": 2.7724847836889914,
           "pitch": 0.30839483958675373,
           "title": "奥州市役所",
-          "text": "<div>https://www.city.oshu.iwate.jp/index.html</div>"
+"text": "<a href='https://www.city.oshu.iwate.jp/index.html' target='_blank'>奥州市役所サイトへ</a>"
         }
       ]
     }
